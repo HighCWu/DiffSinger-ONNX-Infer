@@ -1,0 +1,3 @@
+*.onnx
+model/*.yaml
+__pycache__/
